@@ -25,3 +25,5 @@ This project is a Next.js-based web application where users can share, browse, a
    cd Next-js-food-community-website
 
 2. Install dependencies:
+   ```npm install
+
