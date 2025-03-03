@@ -25,5 +25,12 @@ This project is a Next.js-based web application where users can share, browse, a
    cd Next-js-food-community-website
 
 2. Install dependencies:
-   ```npm install
+   ```bash
+      npm install
+3. Run the development server:
+   ``` bash
+      npm run dev
+4. Open http://localhost:3000 in your browser.
+   
+   
 
